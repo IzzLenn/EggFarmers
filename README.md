@@ -2,7 +2,7 @@
 Informatik Projekt 2021
 
 
-Versionen: 1.0.0 :
+Version: 1.0.0 :
 -projekt erstellt
 -hintergrund und clicker/counter hinzugefügt
 
