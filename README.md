@@ -20,3 +20,7 @@ Version 1.0.4 :
 -variabelen erstellen
 -preise und multiplyer erstellen
 -bug fixes
+
+Versio 1.0.5 :
+-shop skripts komplett
+-bug fixes
