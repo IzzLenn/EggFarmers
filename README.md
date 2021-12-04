@@ -10,5 +10,11 @@ Version: 1.0.1 :
 -Shop UI erstellt
 -design vorbereitet
 
-Vsersion 1.0.2 :
+Version 1.0.2 :
 -bug fix beim starten der app
+
+Version 1.0.3 :
+-Shop UI design komplett
+
+Version 1.1.0 :
+-
