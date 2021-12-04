@@ -16,5 +16,7 @@ Version 1.0.2 :
 Version 1.0.3 :
 -Shop UI design komplett
 
-Version 1.1.0 :
--
+Version 1.0.4 :
+-variabelen erstellen
+-preise und multiplyer erstellen
+-bug fixes
