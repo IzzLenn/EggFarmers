@@ -31,3 +31,9 @@ zurücksetzen auf Version 1.0.4 aufgrung 93 Error nachrichten welche Alle skript
 
 __________________________________
 
+Version 1.1.0 :
+-alles komplett
+-releasbereit
+
+(Version 1.1.2 :
+-fix bei der exe datei)
