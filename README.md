@@ -24,3 +24,10 @@ Version 1.0.4 :
 Versio 1.0.5 :
 -shop skripts komplett
 -bug fixes
+
+_________________________________
+
+zurücksetzen auf Version 1.0.4 aufgrung 93 Error nachrichten welche Alle skripts betreffen
+
+__________________________________
+
